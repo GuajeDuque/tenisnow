@@ -1,0 +1,109 @@
+[
+    {
+        "id":1,
+        "nombre":"RAQ BAB BOOST RAFA STRUNG",
+        "precio":100,
+        "img":"/img/tenisnow_1.jpeg",
+        "descripcion":"Tanto si eres un principiante, si estás retomando el tenis o si buscas un marco efectivo con el que sea fácil jugar, ¡el Boost está hecho para ti!
+        Inspirándose directamente en la raqueta de Rafael Nadal, la Rafa Boost te permitirá realizar remates, dejadas y ases con la facilidad de un campeón.
+        ",
+        "stock":12,
+        "categoria":"Raqueta"
+    },
+    {
+        "id":2,
+        "nombre":"RAQUETA BABOLAT EVOKE 105",
+        "precio":90,
+        "img":"/img/tenisnow_2.jpeg",
+        "descripcion":"Ideal para quienes buscan iniciarse en el tenis, la Raqueta Babolat Evoke 105, ofrece un diseño técnico que aporta comodidad, maniobrabilidad y solidez.",
+        "stock":12,
+        "categoria":"Raqueta"
+    },
+    {
+        "id":3,
+        "nombre":"RAQUETA DE TENIS BOOST AERO ENCORDADA / GRIP 3 – BABOLAT",
+        "precio":70,
+        "img":"/img/tenisnow_3.jpeg",
+        "descripcion":"¡Aprovecha al máximo cada momento en la cancha! Con su innovadora composición de grafito, la nueva Boost Aero es la primera raqueta a la que recurrir si quieres divertirte y aprovechar tu potencial tenístico. Esta raqueta se puede utilizar para todos los golpes de tenis y ofrece la combinación perfecta de potencia, ligereza y maniobrabilidad para ayudarte a medida que progresas, todo por un precio razonable.",
+        "stock":12,
+        "categoria":"Raqueta"
+    },
+    {
+        "id":4,
+        "nombre":"TOUR PREMIER ALL CT 3 BALL CAN WILSON",
+        "precio":10,
+        "img":"/img/tenisnow_5.jpeg",
+        "descripcion":"TOUR PREMIER ALL CT 3 BALL CAN",
+        "stock":12,
+        "categoria":"Pelota"
+    },
+    {
+        "id":5,
+        "nombre":"PELOTA DE TENIS CHAMP XD WILSON",
+        "precio":1000,
+        "img":"/img/tenisnow_6.jpeg",
+        "descripcion":"Pelotas de tenis de calidad Wilson CHAMP XD 3 BALL BALL CAN tanto para partidos como para entrenamiento. Son adecuados para superficies duras. El paquete contiene 3 piezas. Buen rendimiento y durabilidad en superficies duras",
+        "stock":12,
+        "categoria":"Pelota"
+    },
+    {
+        "id":6,
+        "nombre":"POLERA TENIS HOMBRE BABOLAT PLAY CREW NECK",
+        "precio":1000,
+        "img":"/img/tenisnow_7.jpeg",
+        "descripcion":"La camiseta BABOLAT PLAY CREW NECK TEE , de corte clásico, cuello redondo y manga corta, ha sido diseñada para acompañarle en todas las superficies. Tanto si está entrenando como en el borde de la pista. Tanto para nuestros seguidores más fieles como para aquellos que buscan una camiseta clásica y atípica. Su material suave y confortable ofrece un sencillo mantenimiento en el día a día.",
+        "stock":12,
+        "categoria":"Polera"
+    }
+    ,
+    {
+        "id":7,
+        "nombre":"POLERA TENIS HOMBRE BABOLAT AERO COTTON TEE",
+        "precio":1000,
+        "img":"/img/tenisnow_8.jpeg",
+        "descripcion":"El diseño de la Aero cotton tee, de cuello redondo y manga corta, se ha realizado siguiendo los códigos gráficos de nuestra icónica raqueta en un sabio equilibrio de vivos colores. Para los enamorados de esta raqueta y para todos los apasionados del tenis. ",
+        "stock":12,
+        "categoria":"Polera"
+    }
+    ,
+    {
+        "id":8,
+        "nombre":"POLERA TENIS HOMBRE BABOLAT PLAY CREW NECK TEE",
+        "precio":1000,
+        "img":"/img/tenisnow_9.jpeg",
+        "descripcion":"La camiseta BABOLAT PLAY CREW NECK TEE , de corte clásico, cuello redondo y manga corta, ha sido diseñada para acompañarle en todas las superficies. Tanto si está entrenando como en el borde de la pista. Tanto para nuestros seguidores más fieles como para aquellos que buscan una camiseta clásica y atípica. ",
+        "stock":12,
+        "categoria":"Polera"
+    }
+    ,
+    {
+        "id":9,
+        "nombre":"MOCHILA BABOLAT TENIS PURE AERO RAFA",
+        "precio":1000,
+        "img":"/img/tenisnow_10.jpeg",
+        "descripcion":"Mochila Babolat Tenis Pure Aero Rafa",
+        "stock":12,
+        "categoria":"Mochila"
+    }
+    ,
+    {
+        "id":10,
+        "nombre":"MOCHILA BABOLAT TENIS PURE STRIKE",
+        "precio":1000,
+        "img":"/img/tenisnow_11.jpeg",
+        "descripcion":"MOCHILA BABOLAT TENIS PURE STRIKE",
+        "stock":12,
+        "categoria":"Mochila"
+    }
+    ,
+    {
+        "id":11,
+        "nombre":"MOCHILA BABOLAT TENIS PURE AERO BLAC/YELLOW",
+        "precio":1000,
+        "img":"/img/tenisnow_12.jpeg",
+        "descripcion":"MOCHILA BABOLAT TENIS PURE AERO BLAC/YELLOW",
+        "stock":12,
+        "categoria":"Mochila"
+    }
+  
+]

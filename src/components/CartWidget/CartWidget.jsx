@@ -1,6 +1,10 @@
 import React from "react";
+import { BiCartAlt } from "react-icons/bi";
 const CartWidget =() => {
-    return <div>carrito<img src="../src/img/carrito.png" alt="." /></div>
+    return ( <BiCartAlt />
+
+
+   )
 }
 
-export default CartWidget
+export default CartWidget;
